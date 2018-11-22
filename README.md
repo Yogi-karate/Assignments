@@ -1,12 +1,5 @@
 # Assignments of Gramener
-This is the answer to the following question,
+This is the answer to the following questions,
  Box Builder Exercises:
-  JavaScript Exercise: Create a Box builder app to stack boxes. This would have 7-8 features.
-  1. Add Box button adds a new box
-  2. Each new box will have a count number assigned
-  3. Alternating box will be in blue and black color
-  4. On clicking Remove box, removes the last box
-  5. When you no boxes remain, a message appears
-  6. Total Count of boxes is show below the stack
-  7. Font Size of the Total Count increases with box count
-  8. Also, every 5th box (5, 10, 15, etc) has an Orange border on top
+  I have written the code in plain JavaScript, without using any framework. I just want to make the solution so simple as per the given statements.
+ 
