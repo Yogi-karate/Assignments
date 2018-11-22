@@ -1,0 +1,27 @@
+.even{
+    display: inline-block;
+	color:white;
+	background-color:blue;
+	font-size:20px;
+	margin-left:2px;
+	
+}
+.odd{
+    display: inline-block;
+	color:white;
+	background-color:black;
+	font-size:20px;
+	margin-left:2px;
+}
+.fifth
+{
+  border-top: 5px solid orange;
+}
+
+.mid-container
+{
+margin-left:30%;
+}
+.msg{
+margin-left:7%;
+}
