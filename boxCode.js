@@ -66,6 +66,9 @@ function makeUL(array) {
    no.appendChild(document.createTextNode(array[array.length-1]));
    no.style.marginTop = "-4px";
    no.style.marginLeft = "10%";
+    var ex = 20;
+    var en = array[array.length-1] * 5;
+    no.style.fontSize = ex + en + "px";
    list.appendChild(no);
    }
     // Finally, return the constructed list:
